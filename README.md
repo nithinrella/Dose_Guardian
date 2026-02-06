@@ -71,7 +71,7 @@ The Smart Medicine Reminder System is an embedded system project built using the
 ## 3️⃣ Main Menu Screen
 
 
-
+![image alt](https://github.com/nithinrella/Dose_Guardian/blob/52b7c3a1d789aeb235d95e313f5f859b1b0de713/Screen%20shot's/MENU.png)
   🔹Menu navigation using keypad
 
   🔹User-friendly interface 🧭
