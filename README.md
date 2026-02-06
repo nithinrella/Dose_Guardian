@@ -110,7 +110,7 @@ The Smart Medicine Reminder System is an embedded system project built using the
 ## 7️⃣ Medicine Taken Confirmation
 
 
-
+![image alt](https://github.com/nithinrella/Dose_Guardian/blob/8fb2e7361ba15e2f237632a43f3744fa815427a8/Screen%20shot's/MED_TAKEN.png)
   🔹LCD shows MEDICINE TAKEN
 
   🔹Buzzer turns OFF 🔕
