@@ -5,17 +5,10 @@ The Smart Medicine Reminder System is an embedded system project built using the
 
 ## 🧠Key Features
 ⏰ Real-Time Clock (RTC) based time tracking
-
 📟 16×2 LCD display for messages
-
 🔢 4×4 Matrix Keypad for user input
-
 🔔 Buzzer alert at medicine time
-
 💡 LED warning and status indication
-
 ✅ Medicine taken confirmation
-
 ❌ Missed medicine detection
-
 🧩 Menu-driven interface
