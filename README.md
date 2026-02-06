@@ -79,7 +79,7 @@ The Smart Medicine Reminder System is an embedded system project built using the
 ## 4️⃣ Time & Medicine Setup Menu
 
 
-
+![image alt](https://github.com/nithinrella/Dose_Guardian/blob/1cc4a1881173dbba67f7deaca580bf59df1bea46/Screen%20shot's/RTC_EDIT.png)
 1: HR 2: MN 3: SC 4: MED_T 5: EXIT
 
   🔹Set hours, minutes, seconds
