@@ -121,7 +121,7 @@ The Smart Medicine Reminder System is an embedded system project built using the
 
 ## 8️⃣ Failure to Take Medicine
 
-
+![image alt].(Screen shot's/ALERT.png)
   🔹Triggered if switch is not pressed ❌
 
   🔹LCD shows FAILED TO TAKE MEDICINE
