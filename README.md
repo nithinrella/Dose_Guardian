@@ -61,7 +61,7 @@ The Smart Medicine Reminder System is an embedded system project built using the
 
 
 
-
+![image alt](https://github.com/nithinrella/Dose_Guardian/blob/c9aac5ff780750db8a848e5639805e7d53eb128f/Screen%20shot's/RTC_TIME.png)
   🔹 Shows current time in HH:MM:SS format
 
   🔹Displays date and day (DD/MM/YYYY)
