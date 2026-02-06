@@ -168,6 +168,7 @@ The Smart Medicine Reminder System is an embedded system project built using the
 
 ### RELLA NITHIN
 🎓 ECE Student | Embedded Systems Enthusiast
+
 💡 Interested in ARM, Embedded C & IoT
 
 ## ⭐ Support
