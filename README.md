@@ -5,76 +5,76 @@ The Smart Medicine Reminder System is an embedded system project built using the
 
 ## 🧠Key Features
 
-⏰ Real-Time Clock (RTC) based time tracking
+  ⏰ Real-Time Clock (RTC) based time tracking
 
-📟 16×2 LCD display for messages
+  📟 16×2 LCD display for messages
 
-🔢 4×4 Matrix Keypad for user input
+  🔢 4×4 Matrix Keypad for user input
 
-🔔 Buzzer alert at medicine time
+  🔔 Buzzer alert at medicine time
 
-💡 LED warning and status indication
+  💡 LED warning and status indication
 
-✅ Medicine taken confirmation
+  ✅ Medicine taken confirmation
 
-❌ Missed medicine detection
+  ❌ Missed medicine detection
 
-🧩 Menu-driven interface
+  🧩 Menu-driven interface
 
 ## 🛠️ Hardware Components (Proteus)
 
-🔹LPC2148 ARM7 Microcontroller
+  🔹LPC2148 ARM7 Microcontroller
 
-🔹16×2 Alphanumeric LCD
+  🔹16×2 Alphanumeric LCD
 
-🔹4×4 Matrix Keypad
+  🔹4×4 Matrix Keypad
 
-🔹Active Buzzer
+  🔹Active Buzzer
 
-🔹Red LED
+  🔹Red LED
 
-🔹Push Buttons
+  🔹Push Buttons
 
-🔹1kΩ Resistors
+  🔹1kΩ Resistors
 
-🔹3.3V / 5V Power Supply
+ 🔹3.3V / 5V Power Supply
 
 ## 🧪 Software Tools Used
 
-🖥️ Proteus Design Suite (Simulation)
+  🖥️ Proteus Design Suite (Simulation)
 
-🧑‍💻 Keil µVision (Embedded C)
+  🧑‍💻 Keil µVision (Embedded C)
 
-🗂️ GitHub (Version Control)
+  🗂️ GitHub (Version Control)
 
 ## 🖼️ Proteus Simulation Screens & Explanation
 
 ## 1️⃣ LCD Interface & Pin Test
 
-🔹Displays test characters on LCD
+  🔹Displays test characters on LCD
 
-🔹Verifies D0–D7 data line connections
+  🔹Verifies D0–D7 data line connections
 
-🔹Confirms LCD works in 8-bit mode ✅
+  🔹Confirms LCD works in 8-bit mode ✅
 
 ## 2️⃣ RTC Date & Time Display
 
 
 
 
-🔹 Shows current time in HH:MM:SS format
+  🔹 Shows current time in HH:MM:SS format
 
-🔹Displays date and day (DD/MM/YYYY)
+  🔹Displays date and day (DD/MM/YYYY)
 
-🔹RTC runs continuously ⏳
+  🔹RTC runs continuously ⏳
 
 ## 3️⃣ Main Menu Screen
 
 
 
-🔹Menu navigation using keypad
+  🔹Menu navigation using keypad
 
-🔹User-friendly interface 🧭
+  🔹User-friendly interface 🧭
 
 ## 4️⃣ Time & Medicine Setup Menu
 
@@ -82,102 +82,102 @@ The Smart Medicine Reminder System is an embedded system project built using the
 
 1: HR 2: MN 3: SC 4: MED_T 5: EXIT
 
-🔹Set hours, minutes, seconds
+  🔹Set hours, minutes, seconds
 
-🔹Configure medicine reminder time ⏰
+  🔹Configure medicine reminder time ⏰
 
 ## 5️⃣ Medicine Time Alert
 
 
 
-🔹LCD shows MEDICINE TIME
+  🔹LCD shows MEDICINE TIME
 
-🔹Buzzer turns ON 🔔
+  🔹Buzzer turns ON 🔔
 
-🔹LED glows for attention 💡
+  🔹LED glows for attention 💡
 
 ## 6️⃣ Take Medicine Alert
 
 
 
 
-🔹LCD displays TAKE MEDICINE
+  🔹LCD displays TAKE MEDICINE
 
-🔹System waits for user confirmation
+  🔹System waits for user confirmation
 
-🔹Switch press confirms intake ✅
+  🔹Switch press confirms intake ✅
 
 ## 7️⃣ Medicine Taken Confirmation
 
 
 
-🔹LCD shows MEDICINE TAKEN
+  🔹LCD shows MEDICINE TAKEN
 
-🔹Buzzer turns OFF 🔕
+  🔹Buzzer turns OFF 🔕
 
-🔹LED turns OFF
+  🔹LED turns OFF
 
-🔹Successful confirmation 🎉
+  🔹Successful confirmation 🎉
 
 ## 8️⃣ Failure to Take Medicine
 
 
-🔹Triggered if switch is not pressed ❌
+  🔹Triggered if switch is not pressed ❌
 
-🔹LCD shows FAILED TO TAKE MEDICINE
+  🔹LCD shows FAILED TO TAKE MEDICINE
 
-🔹Warning LED remains ON 🚨
+  🔹Warning LED remains ON 🚨
 
 ## 🔁 Working Flow
 
-1. Power ON the system 🔌
+  1. Power ON the system 🔌
 
-2. RTC starts time counting ⏱️
+  2. RTC starts time counting ⏱️
 
-3. User sets medicine time via keypad
+  3. User sets medicine time via keypad
 
-4. RTC compares with medicine time
+  4. RTC compares with medicine time
 
-5. Alert triggers at match
+  5. Alert triggers at match
 
-6. User confirms medicine intake
+  6. User confirms medicine intake
 
-7. Status is displayed on LCD
+  7. Status is displayed on LCD
 
 ## 🎯 Applications
 
-👴 Elderly care systems
+  👴 Elderly care systems
 
-🏥 Hospital medicine reminders
+  🏥 Hospital medicine reminders
 
-🏠 Home healthcare automation
+  🏠 Home healthcare automation
 
-🎓 Embedded systems learning
+  🎓 Embedded systems learning
 
 ## 🚀 Future Enhancements
 
-📲 GSM/SMS alerts to caretaker
+  📲 GSM/SMS alerts to caretaker
 
-💾 EEPROM data storage
+  💾 EEPROM data storage
 
-📱 Mobile app integration
+  📱 Mobile app integration
 
-🔋 Battery backup support
+  🔋 Battery backup support
 
 ## 👨‍💻 Author
 
 ### RELLA NITHIN
-🎓 ECE Student | Embedded Systems Enthusiast
+  🎓 ECE Student | Embedded Systems Enthusiast
 
-💡 Interested in ARM, Embedded C & IoT
+  💡 Interested in ARM, Embedded C & IoT
 
 ## ⭐ Support
 If you like this project:
 
-⭐ Star this repository
+  ⭐ Star this repository
 
-🍴 Fork it
+  🍴 Fork it
 
-🛠️ Contribute improvements
+  🛠️ Contribute improvements
 
 Happy Coding! 🚀
