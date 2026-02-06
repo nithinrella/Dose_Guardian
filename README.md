@@ -120,8 +120,8 @@ The Smart Medicine Reminder System is an embedded system project built using the
   🔹Successful confirmation 🎉
 
 ## 8️⃣ Failure to Take Medicine
-
 ![image alt].(https://github.com/nithinrella/Dose_Guardian/blob/f6d89018236bfc808d8aa7df750715b3d94af763/Screen%20shot's/ALERT.png)
+
   🔹Triggered if switch is not pressed ❌
 
   🔹LCD shows FAILED TO TAKE MEDICINE
