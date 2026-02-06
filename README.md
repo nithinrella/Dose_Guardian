@@ -23,18 +23,31 @@ The Smart Medicine Reminder System is an embedded system project built using the
 
 ## 🛠️ Hardware Components (Proteus)
 
-. LPC2148 ARM7 Microcontroller
+🔹LPC2148 ARM7 Microcontroller
 
-.16×2 Alphanumeric LCD
+🔹16×2 Alphanumeric LCD
 
-.4×4 Matrix Keypad
+🔹4×4 Matrix Keypad
 
-.Active Buzzer
+🔹Active Buzzer
 
-.Red LED
+🔹Red LED
 
-.Push Buttons
+🔹Push Buttons
 
-.1kΩ Resistors
+🔹1kΩ Resistors
 
-.3.3V / 5V Power Supply
+🔹3.3V / 5V Power Supply
+
+## 🧪 Software Tools Used
+
+🖥️ Proteus Design Suite (Simulation)
+🧑‍💻 Keil µVision (Embedded C)
+🗂️ GitHub (Version Control)
+
+## 🖼️ Proteus Simulation Screens & Explanation
+
+1️⃣ LCD Interface & Pin Test
+🔹Displays test characters on LCD
+🔹Verifies D0–D7 data line connections
+🔹Confirms LCD works in 8-bit mode ✅
