@@ -101,7 +101,7 @@ The Smart Medicine Reminder System is an embedded system project built using the
 ![image alt](https://github.com/nithinrella/Dose_Guardian/blob/e6cb161b4d9071a228d0bd503ad7b502883afb02/Screen%20shot's/REMINDER.png)
 
 
-  🔹LCD displays TAKE MEDICINE
+  🔹LCD displays REMINDER TIME FOR DOSE 
 
   🔹System waits for user confirmation
 
