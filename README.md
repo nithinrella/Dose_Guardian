@@ -88,7 +88,7 @@ The Smart Medicine Reminder System is an embedded system project built using the
 
 ## 5️⃣ Medicine Time Alert
 
-
+![image alt](https://github.com/nithinrella/Dose_Guardian/blob/66393ffcf044e824ad246fde24fc60145c78e49d/Screen%20shot's/MEDICINE_TIME.png)
 
   🔹LCD shows MEDICINE TIME
 
