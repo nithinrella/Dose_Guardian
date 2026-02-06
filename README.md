@@ -80,7 +80,7 @@ The Smart Medicine Reminder System is an embedded system project built using the
 
 
 ![image alt](https://github.com/nithinrella/Dose_Guardian/blob/1cc4a1881173dbba67f7deaca580bf59df1bea46/Screen%20shot's/RTC_EDIT.png)
-1: HR 2: MN 3: SC 4: MED_T 5: EXIT
+
 
   🔹Set hours, minutes, seconds
 
@@ -101,7 +101,7 @@ The Smart Medicine Reminder System is an embedded system project built using the
 ![image alt](https://github.com/nithinrella/Dose_Guardian/blob/e6cb161b4d9071a228d0bd503ad7b502883afb02/Screen%20shot's/REMINDER.png)
 
 
-  🔹LCD displays REMINDER TIME FOR DOSE 
+  🔹LCD displays REMINDER ! TIME FOR DOSE 
 
   🔹System waits for user confirmation
 
